@@ -1,0 +1,45 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PowerShell specific
+*.ps1xml
+
+# Large binary files (if any)
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+
+# But keep our specific working files
+!textbook_full_content.txt
+!document_content.xml
+!*.csv
+!*.md
+!*.ps1
