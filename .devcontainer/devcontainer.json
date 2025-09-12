@@ -1,0 +1,24 @@
+{
+  "name": "PSYC 2240 Anki Deck Generator",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/powershell:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.powershell",
+        "yzhang.markdown-all-in-one",
+        "mechatroner.rainbow-csv"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "pwsh",
+        "files.associations": {
+          "*.csv": "csv"
+        }
+      }
+    }
+  },
+  "postCreateCommand": "pwsh scripts/setup.ps1",
+  "remoteUser": "codespace"
+}

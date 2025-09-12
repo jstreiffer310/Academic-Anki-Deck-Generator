@@ -1,135 +1,166 @@
 # PSYC 2240 Anki Deck Generator
 
-## 📚 Biological Basis of Behaviour - Comprehensive Flashcard Collection
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jstreiffer310/PSYC2240-Anki-Deck-Generator)
 
-This repository contains automatically generated Anki flashcards for **PSYC 2240: Biological Basis of Behaviour** covering Chapters 1-3, extracted from textbook notes and organized for optimal learning.
+## 📚 Biological Basis of Behaviour - Optimized Flashcard Collection
 
-### 🎯 **Quick Start**
+Comprehensive Anki flashcards for **PSYC 2240: Biological Basis of Behaviour** covering Chapters 1-3, optimized for memory retention and effective learning.
 
-1. **Download the Anki deck**: `PSYC2240_Chapters1-3_AnkiDeck.csv`
-2. **Import into Anki**:
-   - File → Import
-   - Select the CSV file
-   - Map: Field 1→Front, Field 2→Back, Field 3→Tags
-   - Import into your desired deck
+## 🎯 **Quick Start**
 
-### 📊 **Deck Statistics**
+### Download Ready-to-Use Decks:
+- **[Main Deck](decks/PSYC2240_AnkiDeck.csv)** - 74 memory-optimized question-answer cards
+- **[Cloze Deck](decks/PSYC2240_Cloze_Cards.csv)** - 47 fill-in-the-blank cards
 
-- **Total Cards**: 191 flashcards
-- **Coverage**: Chapters 1-3 comprehensive content
-- **Card Types**: Definitions, concepts, and applications
-- **Source**: Direct extraction from textbook notes
+### Import into Anki:
+1. Download the CSV files above
+2. Open Anki → File → Import
+3. **For Main Deck**: Select Basic note type, map Field 1→Front, Field 2→Back, Field 3→Tags
+4. **For Cloze Deck**: Select Cloze note type, map Field 1→Text, Field 2→Tags
 
-### 📋 **Chapter Breakdown**
+## 📊 **Deck Overview**
 
-#### 🧠 **Chapter 1 - Origins of Brain and Behavior** (~45 cards)
-- Basic terminology (TBI, concussion, neuroplasticity)
-- Historical perspectives (mentalism, dualism, materialism) 
-- Evolution concepts (natural selection, species, phenotype)
-- Human brain evolution (hominins, EQ, connectome)
-- Intelligence and culture concepts
+### 🧠 **Main Deck** (74 cards)
+Memory-optimized cards using proven learning principles:
+- ✅ Question format (more engaging than term-definition)
+- ✅ Concise answers (easier to memorize)
+- ✅ Functional focus (what things DO, not just definitions)
+- ✅ Clear language (no awkward textbook phrasing)
 
-#### 🔬 **Chapter 2 - Functional Anatomy** (~50 cards)
-- Brain organization and divisions
-- Major structures (lobes, brainstem, limbic system)
-- Nervous system principles
-- Anatomical orientation and terminology
-- Neuroplasticity concepts
+### 🔤 **Cloze Deck** (47 cards)  
+Fill-in-the-blank cards for context-based learning:
+- ✅ Multiple deletion points per card
+- ✅ Progressive difficulty
+- ✅ Context reinforcement
 
-#### ⚡ **Chapter 3 - Functional Units** (~40 cards)
+**Total: 121 high-quality study cards**
+
+## 📋 **Content Coverage**
+
+### 🧠 **Chapter 1 - Origins of Brain and Behavior**
+- Basic terminology (TBI, neuroplasticity, neurons)
+- Historical perspectives (dualism, materialism)
+- Evolution and natural selection
+- Human brain evolution (hominins, EQ)
+- Intelligence and culture
+
+### 🔬 **Chapter 2 - Functional Anatomy**
+- Brain lobes and their functions
+- Nervous system organization
+- Major brain structures (brainstem, limbic system)
+- Neural pathways and connections
+- Brain protection and circulation
+
+### ⚡ **Chapter 3 - Functional Units**
 - Neuron types and structures
 - Glial cells and support functions
-- Cellular components and organelles
-- Genetics and molecular biology
-- Protein synthesis pathways
+- Cellular components and genetics
+- Molecular biology basics
+- Inheritance patterns
 
-#### 🎯 **Concept Cards** (~10 cards)
-- Higher-level understanding
-- System interactions
-- Clinical applications
+## 🗂️ **Repository Structure**
 
-### 🏷️ **Tagging System**
+```
+📁 decks/
+  ├── PSYC2240_AnkiDeck.csv       # Main optimized deck (74 cards)
+  └── PSYC2240_Cloze_Cards.csv    # Cloze deletion deck (47 cards)
 
-All cards are tagged with:
-- `PSYC2240` - Course identifier
-- `Chapter1`, `Chapter2`, `Chapter3` - Chapter organization
-- Specific topic tags:
-  - `Definition` - Basic terminology
-  - `Evolution` - Evolutionary concepts
-  - `Anatomy` - Brain structures
-  - `CellTypes` - Neuron classifications
-  - `Genetics` - Molecular biology
-  - `Concept` - Higher-level understanding
+📁 scripts/
+  ├── extract_content.ps1         # Content extraction tools
+  ├── extract_chapters.ps1        # Chapter parsing
+  └── setup.ps1                   # Quick setup script
 
-### 📁 **Repository Contents**
+📁 source/
+  └── textbook_full_content.txt   # Original extracted content
 
-#### 📄 **Generated Files**
-- `PSYC2240_Chapters1-3_AnkiDeck.csv` - **Main Anki import file**
-- `PSYC2240_AnkiDeck_Summary.txt` - Detailed deck breakdown
+📁 docs/
+  ├── anki_creation_prompt.md     # Generation methodology
+  └── PSYC2240_Cloze_Summary.txt  # Cloze deck documentation
+```
 
-#### 📖 **Source Materials**
-- `textbook_full_content.txt` - Extracted textbook content (Chapters 1-3)
-- `document_content.xml` - Raw XML from original .docx file
-- `anki_creation_prompt.md` - Comprehensive prompt used for generation
+## 🛠️ **Development in Codespaces**
 
-#### ⚙️ **Scripts & Tools**
-- `extract_content.ps1` - PowerShell script for content extraction
-- `extract_chapters.ps1` - Chapter-specific extraction tool
+### Launch Codespace:
+Click the "Open in GitHub Codespaces" badge above or:
+1. Go to the repository on GitHub
+2. Click "Code" → "Codespaces" → "Create codespace"
 
-### 🛠️ **Generation Process**
+### Available Scripts:
+```bash
+# Run setup script
+pwsh scripts/setup.ps1
 
-1. **Content Extraction**: Converted .docx textbook notes to plain text
-2. **Term Identification**: Systematically identified key terms and definitions
-3. **Card Creation**: Generated flashcards with precise textbook definitions
-4. **Organization**: Structured by chapters with comprehensive tagging
-5. **Quality Control**: Ensured accuracy and consistency across all cards
+# Extract new content
+pwsh scripts/extract_content.ps1
 
-### 📚 **Study Recommendations**
+# Parse additional chapters
+pwsh scripts/extract_chapters.ps1
+```
 
-#### **Daily Study Plan**
-- **New Cards**: 10-15 per day
-- **Review**: All due cards
-- **Focus Areas**: Rotate between chapters
+## 🎓 **Study Recommendations**
 
-#### **Card Priority**
-1. **Start with Chapter 1**: Foundational concepts
-2. **Progress to Chapter 2**: Build on anatomy knowledge  
-3. **Master Chapter 3**: Advanced cellular concepts
-4. **Review Concept Cards**: Integrate understanding
+### **Optimal Study Strategy:**
+1. **Start with Main Deck** - Learn core concepts efficiently
+2. **Add Cloze Cards** - Test understanding in context
+3. **Daily Schedule**: 10-15 new cards, review all due cards
+4. **Focus Areas**: Rotate between chapters, prioritize weak areas
 
-#### **Study Tips**
-- Use spaced repetition (Anki's default algorithm)
-- Focus on understanding, not just memorization
-- Connect concepts across chapters
-- Review missed cards more frequently
+### **Anki Settings Recommendations:**
+- **New Cards/Day**: 10-15
+- **Maximum Reviews**: No limit
+- **Graduating Interval**: 1 day
+- **Easy Interval**: 4 days
+- **Maximum Interval**: 365 days
 
-### 🔄 **Future Expansions**
+## 🔄 **Adding New Content**
 
-This repository framework can be extended to include:
-- Additional chapters (4-16)
-- Lecture-specific content
-- Practice questions
-- Image-based cards (when available)
-- Cross-chapter integration cards
+### For Additional Chapters:
+1. Add content to `source/textbook_full_content.txt`
+2. Run extraction scripts
+3. Follow existing card optimization principles
+4. Update this README
 
-### 📝 **Notes**
+### Card Optimization Principles:
+- Use question format instead of term-definition
+- Keep answers concise (1-2 sentences max)
+- Focus on function over pure definition
+- Chunk complex information
+- Use clear, simple language
 
-- All definitions extracted directly from textbook content
-- Cards focus on terms appearing in both textbook and lecture materials
-- Special emphasis on green-highlighted terms from original notes
-- Clinical applications included where relevant
+## 📈 **Study Progress Tracking**
 
-### 🤝 **Contributing**
+Track your progress using Anki's built-in statistics:
+- **Cards/Day**: Monitor daily completion
+- **Retention Rate**: Aim for >90% accuracy
+- **Review Time**: Optimize for efficiency
+- **Mature Cards**: Build long-term retention
 
-To add more cards or chapters:
-1. Use the existing PowerShell scripts as templates
-2. Follow the established tagging convention
-3. Maintain the CSV format for Anki compatibility
-4. Update this README with new content
+## 🤝 **Contributing**
+
+### To improve existing cards:
+1. Fork the repository
+2. Make improvements following optimization principles
+3. Test with a small group if possible
+4. Submit pull request with clear description
+
+### Guidelines:
+- Maintain consistent formatting
+- Test cards for clarity and accuracy
+- Document any major changes
+- Follow memory optimization principles
+
+## 📝 **License & Usage**
+
+- **Educational Use**: Free for all students and educators
+- **Sharing**: Encouraged! Link to this repository
+- **Modifications**: Welcome - please share improvements back
 
 ---
 
-**Course**: PSYC 2240 - Biological Basis of Behaviour (Fall 2025-2026)  
-**Generated**: September 11, 2025  
+**Course**: PSYC 2240 - Biological Basis of Behaviour  
+**Coverage**: Chapters 1-3 (Complete)  
+**Last Updated**: September 2025  
 **Format**: Anki CSV Import  
-**Total Study Time**: Optimized for efficient learning
+**Optimization**: Memory-focused design
+
+⭐ **Star this repository if it helps your studies!**
