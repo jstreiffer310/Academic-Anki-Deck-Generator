@@ -1,6 +1,42 @@
+# Chapter Extraction Script - Cross-Platform Compatible
+
+param(
+    [Parameter(Mandatory=$false)]
+    [string]$InputPath = "",
+    [Parameter(Mandatory=$false)]
+    [string]$OutputPath = "source/textbook_full_content.txt"
+)
+
+# Use default path if not provided
+if ([string]::IsNullOrEmpty($InputPath)) {
+    # Try common locations for the XML file
+    $possiblePaths = @(
+        "source/document_content.xml",
+        "document_content.xml",
+        "../document_content.xml"
+    )
+    
+    foreach ($path in $possiblePaths) {
+        if (Test-Path $path) {
+            $InputPath = $path
+            break
+        }
+    }
+    
+    if ([string]::IsNullOrEmpty($InputPath)) {
+        Write-Error "XML file not found. Please specify -InputPath parameter or place document_content.xml in the source/ directory."
+        exit 1
+    }
+}
+
+if (-not (Test-Path $InputPath)) {
+    Write-Error "Input file not found: $InputPath"
+    exit 1
+}
+
 # Read XML content
-$xmlPath = "C:\Users\jstre\Desktop\document_content.xml"
-$content = Get-Content $xmlPath -Raw
+Write-Host "Processing XML content from: $InputPath"
+$content = Get-Content $InputPath -Raw
 
 # Extract all text nodes more carefully
 $textPattern = '<w:t xml:space="preserve">(.*?)</w:t>'
@@ -18,8 +54,14 @@ foreach ($match in $allMatches) {
 $fullContent = $extractedText -join ' '
 $fullContent = $fullContent -replace '\s+', ' '
 
+# Ensure output directory exists
+$outputDir = Split-Path $OutputPath -Parent
+if ($outputDir -and -not (Test-Path $outputDir)) {
+    New-Item -ItemType Directory -Path $outputDir -Force | Out-Null
+}
+
 # Save full content
-$fullContent | Out-File "C:\Users\jstre\Desktop\textbook_full_content.txt" -Encoding UTF8
+$fullContent | Out-File $OutputPath -Encoding UTF8
 
 # Extract chapter structure
 $chapters = @()
