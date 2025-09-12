@@ -1,7 +1,5 @@
 # PSYC 2240 Anki Deck Generator
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jstreiffer310/PSYC2240-Anki-Deck-Generator)
-
 ## 📚 Biological Basis of Behaviour - Optimized Flashcard Collection
 
 Comprehensive Anki flashcards for **PSYC 2240: Biological Basis of Behaviour** covering Chapters 1-3, optimized for memory retention and effective learning.
