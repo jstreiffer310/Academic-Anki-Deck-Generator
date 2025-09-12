@@ -1,0 +1,32 @@
+PSYC 2240 Cloze Deletion Cards - Summary
+========================================
+
+TOTAL CLOZE CARDS: 47
+
+CHAPTER BREAKDOWN:
+- Chapter 1: 13 cloze cards (Brain origins, evolution, historical perspectives)
+- Chapter 2: 13 cloze cards (Functional anatomy, brain structures, organization)  
+- Chapter 3: 13 cloze cards (Cellular components, genetics, molecular biology)
+- Concept Cards: 8 cloze cards (Cross-chapter integration and major concepts)
+
+CLOZE CARD FEATURES:
+✅ Multiple deletion points per card (c1, c2, c3, etc.)
+✅ Progressive difficulty from simple to complex concepts
+✅ Context-based learning for better retention
+✅ Cross-referenced with definition cards
+
+IMPORT INSTRUCTIONS FOR ANKI:
+1. File → Import
+2. Select PSYC2240_Cloze_Cards.csv
+3. Note Type: Cloze
+4. Map: Field 1→Text, Field 2→Tags
+5. Import into desired deck
+
+STUDY STRATEGY:
+- Use cloze cards for active recall testing
+- Combine with definition cards for comprehensive coverage
+- Focus on understanding relationships between concepts
+- Review missed clozes more frequently
+
+These cloze cards complement the main definition deck and provide
+context-based testing for deeper understanding of key concepts.
