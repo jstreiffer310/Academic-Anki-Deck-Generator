@@ -36,11 +36,13 @@
 
 ## 🚀 Advanced Setup
 
-### Recommended Anki Add-ons
-- **Load Balancer**: `1417170896` - Prevents review pile-ups
-- **More Answer Buttons**: `468253198` - Fine-tune difficulty  
-- **Review Heatmap**: `1771074083` - Track progress visually
-- **Speed Focus Mode**: `1046608507` - Distraction-free study
+### Recommended Anki Add-ons (Search by Name)
+- **Load Balancer** or **FSRS4Anki** - Better review distribution
+- **More Answer Buttons** - Fine-tune difficulty  
+- **Review Heatmap** - Track progress visually
+- **Speed Focus Mode** - Distraction-free study
+
+*Note: Search by name in Anki's add-on browser - codes break frequently*
 
 ### Automation Scripts
 - `scripts/build_anki_deck.py` - Regenerate deck from CSVs with proper priorities

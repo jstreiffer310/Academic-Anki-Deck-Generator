@@ -18,35 +18,46 @@
 
 ### Essential Add-ons for REAL Priority Control:
 
-**Load Balancer (Free alternative: FSRS Helper)** - Code: `759844606` 
+**IMPORTANT**: Add-on codes frequently break. Use these search names instead:
+
+**Search: "Load Balancer"** or **"FSRS4Anki Helper"**
 - Distributes reviews evenly across days
 - Prevents review pile-ups
-- Modern alternative: FSRS4Anki Helper
+- Modern FSRS algorithm is better than default Anki
 
-**More Answer Buttons** - Code: `468253198`  
+**Search: "More Answer Buttons"** 
 - Adds "Hard" and "Easy" buttons for fine control
 - Actually affects future scheduling
+- Look for "4 buttons" or "additional buttons"
 
-**Review Heatmap** - Code: `1771074083`
+**Search: "Review Heatmap"**
 - Visual progress tracking
 - See your actual study patterns
+- Calendar view of your reviews
 
-**Speed Focus Mode** - Code: `1046608507`
+**Search: "Speed Focus Mode"** or **"Fullscreen"**
 - Removes distractions during study
 - Focus on one card at a time
+- Hide deck browser during reviews
 
-**Alternative: FSRS4Anki (Modern Algorithm)** - Code: `759844606`
+**Search: "FSRS4Anki"** (HIGHLY RECOMMENDED)
 - State-of-the-art spaced repetition algorithm
-- Replaces Anki's default algorithm
-- Better retention prediction
+- Replaces Anki's default algorithm with AI
+- Much better retention prediction than default
 
-**Note**: Add-on codes change over time. If a code doesn't work:
-1. Go to Tools → Add-ons → Browse & Install
-2. Search for the add-on name instead
-3. Some popular alternatives:
-   - "Load Balance" or "FSRS Helper" for review distribution
-   - "Review Heatmap" for progress tracking
-   - "More Answer Buttons" for scheduling control
+**Installation Instructions:**
+1. Open Anki
+2. Tools → Add-ons → Get Add-ons
+3. Click "Browse Add-ons" 
+4. Search for the add-on name (not codes!)
+5. Install the most popular/recently updated version
+6. Restart Anki after installing each add-on
+
+**Why Search Names Work Better:**
+- Add-on codes break frequently  
+- Search finds current working versions
+- Authors update add-ons regularly
+- Multiple alternatives available for each function
 
 ### Deck Settings (CRITICAL - these actually matter):
 
