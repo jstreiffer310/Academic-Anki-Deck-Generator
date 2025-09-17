@@ -1,0 +1,54 @@
+📄 EXTRACTED WORD DOCUMENT CONTENT
+==================================================
+  1: HEADER: LECTURE 1 - Sept 03:
+  2: Link to 2022 Supplement; Online Lecture
+  3: Slides: Lecture 1 Slides (2022).pdf
+  4: HEADER: Guest LEC 1A: Dance, Parkinson’s and Speech (Ashkan)
+  5: What is parkinson’s disease (PD)
+  6: A progressive neurodegenerative disease affecting 2-3% of individuals over the age of 60
+  7: Most notably associated with speech deficits
+  8: HEADER: Research findings - Study 1:
+  9: Differences in vocal parameters between PD and healthy controls
+ 10: Longitudinal studies show worsening vocal characteristics
+ 11: Participants: 29 people with parkinson’s and 29 healthy controls (part of a larger study)
+ 12: MDS-UPRS: Movement Disorder Society Unified Parkinson’s Disease Rating Scale
+ 13: The scale used to compare data between before the dance class and after the dance class
+ 14: Data was recorded at 11 time points (consolidated into 4)
+ 15: Variables:
+ 16: FOSD: Standard deviation of the fundamental frequency
+ 17: Expected to decline with PD progression
+ 18: InstSD: Standard deviation of the voice intensity
+ 19: Findings:
+ 20: For FOSD: main effect of time (from 2014 from 2019, the measure changed for both groups)
+ 21: With dance, FOSD increased for both groups…
+ 22: For InsDS: no differences between the groups (main effects OR interaction? - clarify)
+ 23: Implications:
+ 24: FOSD as a cost-effective biomarker for PD
+ 25: Vocal analysis as a non invasive tools for early detection
+ 26: Dance sessions can be incorporated into management regimens
+ 27: Integration of machine learning:
+ 28: AI can detect subtle vocal changes that we might not be able to detect on our own
+ 29: HEADER: Neuroimaging Data - Study 2
+ 30: Functional MRI (fMRI) changes in motor cortext (inferior frontal gyrus) and the supplementary motor area (SMA)
+ 31: Applications of imaging data:
+ 32: Exploring changes between imaging between participants when imagining their dance, versus actually engaging in the dance itself…
+ 33: Cortical Thickness over the Broca’s area and the Supplementary frontal language (SFL)
+ 34: DWI/DTI (white matter connectivity)
+ 35: Looked into the connections between Broca’s area and the SFL
+ 36: The study in 2019 used fMRI data from 2013-2014….
+ 37: Brain Region - Motor Cortex
+ 38: Responsible for covert speaking (imagined speaking)
+ 39: Changes across time (Sept – Jan):
+ 40: When we look into a certain brain region, we look at blood flow in and out of certain regions (indicative of brain activity), and have an indicator of changes in brain activity over time
+ 41: BOLD signal changes: explored as participants imagine what they are instructed to….
+ 42: Findings:
+ 43: Significant findings in the BOLD signal front attribute
+ 44: Broca’s area didn’t show changes across the 4 time points (not expected, anyways, since you are always using speech – dance would not modulate)
+ 45: HEADER: SFL:
+ 46: It was the planning part of the speech that may have changed..
+ 47: In later scans, there may have been new connections established (but this may have been computational errors)
+ 48: DTI Measures:
+ 49: Fractional ansiotropy distribution
+ 50: increased/improved from Time 1 to Time 2 and was significant
+
+... (showing first 50 of 2522 paragraphs)
