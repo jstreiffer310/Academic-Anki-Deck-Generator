@@ -9,7 +9,7 @@
 - ✅ **Real spaced repetition** optimization
 
 ### Import Instructions:
-1. Import `PSYC2240_PROPER_Priority.apkg`
+1. Import `PSYC2240_Complete_AnkiDeck.apkg`
 2. You'll get 4 separate decks:
    - **High Priority**: Clinical conditions, core concepts
    - **Medium Priority**: Supporting mechanisms, processes  
@@ -18,9 +18,10 @@
 
 ### Essential Add-ons for REAL Priority Control:
 
-**Load Balancer** - Code: `1417170896`
+**Load Balancer (Free alternative: FSRS Helper)** - Code: `759844606` 
 - Distributes reviews evenly across days
 - Prevents review pile-ups
+- Modern alternative: FSRS4Anki Helper
 
 **More Answer Buttons** - Code: `468253198`  
 - Adds "Hard" and "Easy" buttons for fine control
@@ -33,6 +34,19 @@
 **Speed Focus Mode** - Code: `1046608507`
 - Removes distractions during study
 - Focus on one card at a time
+
+**Alternative: FSRS4Anki (Modern Algorithm)** - Code: `759844606`
+- State-of-the-art spaced repetition algorithm
+- Replaces Anki's default algorithm
+- Better retention prediction
+
+**Note**: Add-on codes change over time. If a code doesn't work:
+1. Go to Tools → Add-ons → Browse & Install
+2. Search for the add-on name instead
+3. Some popular alternatives:
+   - "Load Balance" or "FSRS Helper" for review distribution
+   - "Review Heatmap" for progress tracking
+   - "More Answer Buttons" for scheduling control
 
 ### Deck Settings (CRITICAL - these actually matter):
 
