@@ -22,6 +22,7 @@
 |------|---------|
 | `PSYC2240_Complete_AnkiDeck.apkg` | **Main deck** - Import this into Anki |
 | `SETUP_GUIDE.md` | Complete setup with add-on recommendations |
+| `FSRS_SETUP_GUIDE.md` | **FSRS algorithm setup** - AI-powered scheduling |
 | `PSYC2240_Complete_AnkiDeck.csv` | Source Q&A cards |
 | `PSYC2240_Complete_Cloze_Cards.csv` | Source cloze cards |
 

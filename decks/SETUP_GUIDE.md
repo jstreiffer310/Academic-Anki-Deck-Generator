@@ -44,6 +44,7 @@
 - State-of-the-art spaced repetition algorithm
 - Replaces Anki's default algorithm with AI
 - Much better retention prediction than default
+- **See FSRS_SETUP_GUIDE.md for complete installation**
 
 **Installation Instructions:**
 1. Open Anki
