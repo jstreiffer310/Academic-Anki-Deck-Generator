@@ -37,6 +37,12 @@ desktop.ini
 *.pptx
 *.xlsx
 
+# Audio files (too large for git)
+*.m4a
+*.mp3
+*.wav
+*.aac
+
 # But keep our specific working files
 !textbook_full_content.txt
 !document_content.xml

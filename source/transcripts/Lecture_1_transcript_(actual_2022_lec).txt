@@ -1,0 +1,699 @@
+JF
+Joseph FX DeSouza
+And just remind me to turn it on if I pause it during a break.
+Okay, So
+this slide here talks about evolution. That's chapter one
+i'm going to talk almost nothing about nothing. So if you want to skim something in the course, skim that you'll have one or two questions on the whole,
+but it's a good thing to skin like if you're reading on the subway just to get a flavor of where we sit as humans in the big picture of the earth, right
+this one Here,
+we're going to talk about a little bit in this course.
+I'm gonna make it big for a second.
+So if you can take a look at this quickly, does anyone notice
+anything odd about the scans on the
+you're left compared to the ones on the right.
+It's not you. It's
+Unknown Speaker
+Unknown Speaker
+00:01:00
+sharing your screen.
+Unknown Speaker
+Unknown Speaker
+00:01:03
+Oh, yeah, yeah. Otherwise it's just looking at the black screen.
+JF
+Joseph FX DeSouza
+00:01:12
+Okay, Thanks, Jay. That's why Tas are here,
+and the Tas are here for you guys to help you through your course, help you through getting good marks,
+so use them early. They work ten hours per week. Is that the like routine, or whatever
+uh and they never will work ten hours this week or next week, or the week after
+they'll jam it all when they mark your tests. Right? So it'd be great to use them. Well,
+it's a relaxed time. So again, with anything weird on the left side.
+Yeah. So that scan there is missing the cerebellum.
+So anyone know what the function of the serve element is textbook.
+Unknown Speaker
+Unknown Speaker
+00:01:55
+Yeah.
+Unknown Speaker
+Unknown Speaker
+00:01:56
+And
+JF
+Joseph FX DeSouza
+00:01:58
+balance movement, Yeah. Kind of fixing or training the errors we make when we're balancing it.
+And you think like that picture there is of an adult.
+So do you think this adult person, Ms. Cerebello, who theoretically, the function of it is to two more movements. Do you think this person walks and moves around space?
+There he is.
+So there's a couple of nose, so that that's theoretically what the textbook says.
+You don't get any moves. Maybe you get any learning. You don't get any training versus just like a in real
+actual fact. This was a paper I think, about
+about ten years ago, and this person all they did was behaviorally. They had slower development of movement, slower development of language,
+Certain parts of the brain recovered the function of what it should be
+right. And this person you. If you. If this person was in the class, we couldn't tell who it is.
+So. The brain has power within the neural matrix when there's a loss of function because of structure. Alright, So that's cool thing.
+Now, this this one essentially
+so, this slide here.
+It describes how brain areas are connected.
+And So these little pathways, these little like that, that that orange and yellow one in your A is showing some sort of activation, something happening as her part of the brain.
+And then what's cool is that B shows network activity across these blue lines. So these blue lines are statistical maps, or a statistical test done with data from an Mri to be able to say, there's a probability of
+blue, the the red stuff connected to the yellow stuff combined,
+and this is super powerful. So imagine that slide. I showed you earlier with the person's brain missing a cerebellum. All those connections that would normally be there to two more movements. We're missing.
+You had connections and still function in the day you're done in our own. That person who missed the cerebellum.
+I don't know why she went into the scanner, but she went in for some reason, and it wasn't that she had a car accident or she was bleeding. It was just like pretty standard
+person in China, that's all I remember.
+So the rest of the cool stuff.
+What I showed you already so far is the
+things I sort of do in the lab.
+So I do functional imaging in our lab. I do track tracing a little bit. I've done
+the evolution stuff. I've worked with different animal models to try to understand how neurons are doing things related to behavior.
+Now, the last thing here is where we're getting close. I didn't even show you a neuron dead.
+But the last one is talking about a reflex.
+You withdraw your foot right up, paying withdrawal,
+and it's super simple. It's a few neurons theoretically in a loop, that you feel something. You pull your from back where you you something super hot, and you pull your hand away.
+This is a reflex that's almost in this final part. You don't have to know that you touch something on You don't have to know You stepped on an attack or a scorpion, or something else
+do is pull your filling right? So it's a reflex. It's done, and potentially only in the spinal,
+and only later. So it has to be fast, right, because you want to save your your back, your hand, or your foot.
+So we're going to talk a little bit about that. Um. And what I want to do before we move on
+is, does anyone know what the minimum amount of neurons in the range you would.
+So it's not one for sure.
+It could be two, three, or four. Yeah.
+Unknown Speaker
+Unknown Speaker
+00:06:19
+Oh, I'm. Good.
+JF
+Joseph FX DeSouza
+00:06:20
+One hundred. Okay, that's a good
+suggestion on great death.
+Uh, do you have a chalk in here? Probably not.
+I'll take it now.
+Hundred. Okay. So
+if you're connected,
+say to do
+so, i'm looking at that, I don't know what that is, a proper protector or something in the back of the room at the top
+some camera subscribe to that your tasks and check on my
+teaching skills, or whatever right. So so there's something back there. The light has to come from one of these lights. Bounce off that come into my retina.
+Unknown Speaker
+Unknown Speaker
+00:06:55
+It has lots of connections within it.
+JF
+Joseph FX DeSouza
+00:06:58
+Then out to a lot of
+and to the visual cortex,
+then to some object areas. You're probably way over one hundred
+to to visually recognize something in the room. So if i'm looking at a face like Jade's face, I know him from like four years or something like that. So I have memories linked to him.
+That's probably like the of the thousands of them
+right, and that process might take me somewhere between three hundred to maybe half a second to know that that person is J. And be able to say,
+All right, So you're pretty close for a normal behavior. That's great. I'm gonna tell you. It's a little less than a hundred.
+You want a gas.
+Okay? So i'm. I'm gonna have to do fifty. We'll do this as a scale here,
+right? So this is fifty,
+and there's probably things that are fifty neurons. I don't know.
+The only thing I do know is they're a reflex. That's only three
+only three neurons.
+I'm gonna demo it now. So So everyone look at their finger.
+Look at your fingerprint. Pay attention to it and move it around the world
+and try to follow it and pay attention to the figure
+and move it faster now like this,
+So can you see your fingerprints
+walk
+that it's too fast? Yeah,
+Because for fifty neurons or one hundred
+you have to have these neurons connected
+together,
+So it costs a loop, but there's like fifty of them in here. So forty, something more
+right? So you have to have fifty neurons
+each neuron. What actual potential takes. How long you want to know that you probably don't know it takes four milliseconds. So
+So if you do the map four four milliseconds times fifty
+right. It's two hundred.
+That's two hundred milliseconds.
+So we're moving our finger trying to recognize the fingerprints. Can't do it. It's impossible,
+because it's just too fast, like you said
+so. Now look at your finger and move your head
+around.
+Don't understand Your Mugger had the same velocity and speed. You were moving your head finger before.
+Can you do that? Can you see your fingerprint the whole time?
+That's an extended on one point.
+Unknown Speaker
+Unknown Speaker
+00:09:39
+Yeah, where
+JF
+Joseph FX DeSouza
+00:09:44
+we're looking at states a lot of times.
+Yeah. Totally. Oh, perfect. That's what it is.
+So So you have a vesicular system. So I don't want to try to draw it. But there's these three kind of canals buried in your inner ear,
+and there it's the It's a cranial nerve that sends the neuron from this
+to an intern or on.
+And then to
+this is the third cranial nerve sends it to the muscle.
+Oh, I missed one. Yeah.
+So you have one neuron, two and three.
+And so now, if you do, the math
+three times four is twelve,
+right? And this three neuron arc is called the vestibular ocular reflex.
+And So this is like the first behavior you guys have learned orally controlled behavior.
+Oh, Chris Taylor,
+this particular ocular reference. Yeah,
+you are.
+So this is like
+a
+You don't you don't. You don't have to walk, probably to like Christmas. I probably have to walk to my main street
+to give you the same scale of when you're on the right
+in all the networks. Right? So
+So this is kind of like the cheat sheet.
+Then what i'm gonna do for a second here.
+So
+so I told you about this. We're going to talk about basic things. The first third of the course is really to teach you what neurons are, how they connected, how they fire, where they might reside in different networks.
+And then the next thing is to talk about the senses right? How we taken things to the world into our brain and then analyze this and then act in the world.
+And these are all the basic super basic behaviors right?
+You already look at the two Tas um. Did we separate by Marx or anything yet? No, okay. We'll do that. Maybe we'll split half the class next week by if you're a to like n you go talk to one person, another person, so that it's broken up a little bit.
+I'm here every day Monday to Friday,
+please. If you want to have any questions about the course, either email the tas you're assigned to or me and come talk about it. I'm usually here before class, but it looked like the class before is always going to be laid
+all right. So maybe when we we're in we can talk about stuff if you have time.
+Now, what I can't do is make you study. You have to learn what vor is. You have to learn and read what a neuron is, what the components are. That's your job, you know. Do the best you can. I'm going to put all the stuff that we talk about online. I had a lot of extra stuff on there online. Um, just go at it.
+The stuff that we do with the publishers website. The launch pad is very useful. It's almost mindless. But you still learn.
+So it's pretty good.
+Okay, i'm gonna post the lectures like I did. Um, i'm gonna usually post them with not black backgrounds, so you can print them up If there's someone who wants to print up and just like right notes on this. You're welcome to do that.
+So yawning, What is this behavior? Anyone know why we on
+when you're bored? Yeah,
+yeah, that could be it. So so i'll gonna write this down.
+It's fifteen hours.
+So o two more oxygen,
+perhaps
+just a long time ago.
+I'm not. I'm not heard that one yet. But maybe that's That's why I don't setting This
+I don't know. Cool down.
+You're right.
+Unknown Speaker
+Unknown Speaker
+00:14:28
+I'm older
+Unknown Speaker
+Unknown Speaker
+00:14:30
+and he played it for something seriously.
+JF
+Joseph FX DeSouza
+00:14:33
+That's cool. That's cool.
+I was going to add on to that. I kind of you through this kind of like awesome
+I've got for a train where it's a smoke.
+Unknown Speaker
+Unknown Speaker
+00:14:42
+You
+JF
+Joseph FX DeSouza
+00:14:44
+all right. I like I like it
+so I like this.
+Unknown Speaker
+Unknown Speaker
+00:14:49
+So,
+JF
+Joseph FX DeSouza
+00:14:58
+hey, anyone else,
+Unknown Speaker
+Unknown Speaker
+00:15:06
+Tom's here to,
+JF
+Joseph FX DeSouza
+00:15:10
+but that is a separate one. It contains yon
+anyone else. You already raised your hand so many times,
+which is great.
+Uh: yeah, the Red Shirt there.
+Yeah, it could be just a reflex. Yeah.
+So so just before last day,
+if you want to know more, there's a paper where there's a
+a podcast I just posted. That was from two thousand and eight where someone in the Uk
+studied this in chimpanzees.
+So you said contagious yawning, Is it contagious across species?
+It is Yeah. And so this behavior is can be induced
+in harsh
+through vision, of course, through sound, because I've been on the phone with someone in the past, and they yawn and you can yawn without even seeing them. So
+right. So this behavior is somehow linked into our genome right by my kid here yawn before he even ever like was supposed to be at all right. So the neural network is set up in such a way.
+There's actually a society of studying yawning if you wanted to search it. It's a group in Paris, France, and this group ends up
+talking about.
+You get certain brain stem damage. You can yawn too much, or you can lose the
+the behavior beyond it. So it's It's nearly controlled for sure. So, but no one studies it, and maybe because a lot of very few people study it.
+It doesn't mean it's not important,
+right? It just doesn't like a No One's studying this. Maybe because you can't make a million dollar blockbuster drug
+right to figure this out right like five is just not going to do this. They're gonna jump on doing kovat vaccines for sure, right? Which they did. But so so this is cool.
+Unknown Speaker
+Unknown Speaker
+00:17:21
+It's one.
+Unknown Speaker
+Unknown Speaker
+00:17:24
+It's this
+JF
+Joseph FX DeSouza
+00:17:25
+to get you on.
+Yeah, yeah, I don't know about this like in the from development. But this this group in Paris I read a news blog on an article, and they had patients who can't yon or canyon once they get brain stem.
+So somewhere within that circuit you can turn it on or off by get
+right. So like. If this was the yawning circuit instead of an eye movement circuit
+right there might be. Of course there's more neurons, but if you damage one of them, then the behavior goes away.
+So it is narrowly controlled, which is super cool.
+Ah, anyone else.
+That's great. Yeah, I love this. I I want to have a big discussion during my class, my dream class I had once in my life where we got stuck on the one slide, and we talked for like almost three hours, on
+which was great, it was so good.
+So Yeah, there's other theories that it's not so much the ideas here. These are it's that you're starting to become a scientist. You're thinking you're making hypothesis in your head what it could be. And then you're listening to the plausible solutions. Right?
+So let's go to the next one. This is another puzzle. I learned about this disease. It's called hemispatial.
+From this guy i'm salvin tornado, and he's a broth in Houston, and he's the University of the royal family.
+It's a great scientist.
+He got me interested in neglect, but he got me interested in
+really science. When I was in, when I, in one thousand nine hundred and ninety, two ninety three when he was here on Sabbatical. And what penny spatial neglect is. So this drawing here on the top is a drawing or a self-portrait of an artist after he had damage to his brain from a stroke.
+Right? This is a sometime after self-port.
+This is a little time after, and this is even later, right? And anyone notice anything interesting about these pictures?
+So who was that?
+They get more detailed? Yeah, anything else?
+No, I think you did separate ones, even though it kind of looks like that in some way. There is a lot of overlap within the first one to the last one. Yeah
+to her
+Unknown Speaker
+Unknown Speaker
+00:20:04
+it shows progression.
+JF
+Joseph FX DeSouza
+00:20:08
+Yeah, yeah, there's a lot of like recovery of function after a time. Yeah.
+Unknown Speaker
+Unknown Speaker
+00:20:13
+Ah, anyone else.
+JF
+Joseph FX DeSouza
+00:20:17
+It's more colorful. Yeah, that's true,
+like the first one right side, and then
+so. So the cool thing about this syndrome is
+so. The idea of neglect is, you're neglecting part of space.
+So some of these patients, not this one in particular, and I've never met a person with hemispatial neglect in my life.
+They're very rare. I think they're way less than like one percent, because I've met a lot of people with Parkinson's, and that's one percent of the population,
+Unknown Speaker
+Unknown Speaker
+00:20:51
+all right. So
+JF
+Joseph FX DeSouza
+00:20:53
+um! But what happens in this is there's damage to some part of the brain, and wherever we cold space that module is damage, just like I was telling you about. If there's damage to a network related to yawning, it can be turned off or on, so you can make it go
+more or less.
+In this case it's being a squishing of space. So how you perceive space. So everyone here perceives space fully, and and you can pay attention to this part of the world without looking at it. You know it's there, and these people, their brain gets damaged, and so it gets squished, and so their whole world is just this.
+I don't know if that means that
+what they perceive, or what they draw out is all they perceive.
+We don't know it could, but we know it's not visual, so the persons don't have visual laws. You can test them with a little light, and say, where was the light? They can point to it all over the world,
+right? So they have no loss of vision.
+They have no loss of motor function, because this man could probably paint all over the world in the first time you did the paint.
+It's just that when he's doing this like putting the paint on his brush getting it there, he's neglecting it. It's like It's squished right. For some reason nobody knows why.
+So it's it's usually from stroke. It's usually from damage to the right hemisphere and we're going to talk about contrailateral, and it's not our own stuff later on in the course, but
+their contralateral visual space is squished
+right, and and it's so obvious. Let me let me show you. Let me post.
+So it's so obvious, so that a person is
+a person may, even when they're
+even when they are eating off their plate They're eating food off their plate. They will neglect half of the plate
+right? So some of the people who are eating with these people. All they have to do is turn the plate one hundred and eighty degrees, and then they say, from anecdotes I've heard is that who put food on my plate
+right, but it was there all along. She didn't notice it.
+There's extreme cases where people who shave men shave. They only see after face.
+Right? So when you're shaving, you only shave the part of the face that you're
+you think exists. You don't notice the other part
+right? So so that's the extreme cases. I was gonna pose. I was gonna quickly show you,
+and there's all sorts of cool things. I'm going to show you in a second from literature.
+And so
+there's cool things like this where I have this in the slides. But I think that they're better here. The person is asked to draw analog from them,
+or a flower from them
+Unknown Speaker
+Unknown Speaker
+00:24:09
+right, and they only draw that part.
+JF
+Joseph FX DeSouza
+00:24:11
+I.
+Those are the cool ones I don't see a face. The face is really cool, but you don't see it, but not today.
+Now, this guy.
+So this is probably a demo. He's probably not the real person who had neglect probably a pro off like me,
+shaving half his face and just doing this as a demo.
+But this is the idea.
+So the big puzzle again. We're trying to understand a behavior.
+The big puzzle again is why
+right? So? It's damaged from this temporal pridal Junction.
+What's cool? Is it's It's a jumping of vision and motor in one part of space, so that you now act on it.
+The damage damage this module of neurons that code space. Now, do you think it's only visual? Can it happen for touch? Can it happen for sound? Can it happen for smell? Can it happen for other senses anyone have an idea or comments?
+Unknown Speaker
+Unknown Speaker
+00:25:14
+Now, we
+JF
+Joseph FX DeSouza
+00:25:15
+Okay,
+Yeah. So So what's super cool is we grow up in our life and you develop in a multi-sensory world, a scientists break it down. So I, when I was training as a
+but in reality, when my kids grew up,
+they always saw an object in the world, and if that object made a sound like a bird, and it moved through space, they heard all those things right, and if the bird flew near their head, they would hear the sound, but also feel the wind
+right. So it's a multi-sensory thing, and this disease is multi-sensory. So it happens for touch. It happens for smell. The the scientists I showed you earlier. Salvator. You published a paper where you gave different sense to the right or left nostril
+and patients with hemispatial neglect, the contrailateral. So the left nostril compared to the right. Yeah.
+Yeah. So
+So that's a great question. I don't know the answer to it The
+If there's a so tumor or seizure folks eye near where this module is like in the brain and the left, right right bridal junction, then it would cause the same symptoms Right? So it doesn't have to be only from strong.
+It could be from a tumor. It could be a car. Accidents
+it could be from anything just bleed. Internal bleed it could be from an aneurysm. But what has to happen is wherever this module is,
+wherever it happens, exists that we need rights,
+so it's the last of them right?
+So it has to be damaged this far
+right,
+where the
+varietal and the temporal and the frontal. It has to be within this space the
+if it's in this side.
+What happens is very rarely is their spatial neglect,
+and it's probably because
+we'll, We'll talk about this later
+burning Keys area involved in understanding language So is any left-handers in the audience who want to admit their left-handers. Okay. So it should be ten percent.
+So, like a five hands. Right? So it's. It's actually probably less in the in this class. And so left-handers
+language where the keys and brokers area could be distributed across the two. If you're right-handed
+hundred percent are languages on the left. For some reason
+nobody knows if this module is there first, and then you start moving in your life, and you become biased towards the right because of the neuron structure.
+This was here first coding space, and then, as you develop the language gets, put it,
+nobody knows which one. It is chicken or
+but the story is ten percent of Leftees. They might have language on both sides. And and so, somehow, space that's neglect when damage happens here
+it kissed her.
+So that's a great question.
+It doesn't have to be strong.
+Okay, So where are we? So So these are other tests. So
+this bedside fifteen, if you, if you
+put a person that give a person a piece of paper and give them a marker and say, bisect this line to the middle. They, of course, are going to bisect it here, because, you know, they have neglect
+right?
+And there's so many other tests. People have used way before computers and in gadgets. And and this again is like you can see there's a neglect of the space. And in some of these questions like you're you're crossing off. In this case you're crossing off the stars
+so, and what a person is doing, is It's not like They're looking at it once, and then the disappear, and they go from memory
+to physically going back and forth with a marker. Well, I got this one. I got this one. I got this one, and for them to neglect this part of the world. It sounds like absurd, just like It's as absurd, and a person missing half the food on their place when they're hungry,
+right? So it's again a cool puzzle that this is the way the brain is set up again. This is the same thing as I showed you on the pictures. Yeah,
+Unknown Speaker
+Unknown Speaker
+00:29:49
+a lot of this working.
+JF
+Joseph FX DeSouza
+00:29:54
+Yeah, this is a great question. I'm going.
+I don't study it. Maybe you can Google search it and find it. My guess. If a person who has this kind of advantage, it should not ever get behind
+right like I drove from like Blur Street to air,
+and I probably made like
+at least ten left-handed terms, the
+right and I could pay attention to the left part of space, because my brain is intact what's cool is. There's even a bias in some of this experiments, if you do it in normal people, and you push the person's brain. There is this module where there's a little bit of a bias. You pay attention on the right or left.
+But yeah, in real world it happens to, they would have to deal with. They are all just like
+the person has one of the students here mentioned epilepsy
+like. If you have epilepsy is diagnosed, you can't try it until it's managed as you all get older my mom's day three she self-driving from years ago. But I think if you start doing tests,
+make sure if you can see, and you can drive, and you could recognize a clock and draw it a clock, and all these kind of call your tests, because if you can't do that. You can't recommend science.
+Unknown Speaker
+Unknown Speaker
+00:31:06
+It is the good day,
+JF
+Joseph FX DeSouza
+00:31:07
+right? So my feeling is it's It's probably based on the clinician who is managing that person, and if it's really bad, and this is after the recovery,
+they would have to do some sort of test to make
+them able to draw.
+But again, it's the same thing. You're walking across the road,
+and if you're not paying attention to the left,
+there are tests and stuff people do. There's just one cool scientist. His name's a Rossetti in the All France. So does anyone know anyone ever seen like a light shifting prism?
+So it's just like you put it down, and the sunlight goes through it, and it changes into the rhyth all the rainbow. But if you look through it, it shifts the world,
+shifts the light. So if you're looking, if you put the prism on your eye and look through one eye, it would shift the world by so much
+depending on the the shape of this pyramid.
+And so what this great neurologist did I, Rosetti researcher, put prisms on these people to shift the world. So instead of them. Neglecting this part of the world. It shifted the whole world this way, and they wore these prisms For some period of time it lasted. The treatment lasted for a day.
+So you just go for a top.
+And so this is still controversial. They did this maybe fifteen years ago or so,
+but It's a cool therapy that has worked for some patients, and maybe that would work for them if they were not allowed to drive. You could drive
+all right? So that's a good question. Anything else, Any other comments or questions about it. Neglect any spatial neck. Good.
+Okay. So this is just like in the Google images I showed you.
+You can neglect depending on how you pay attention to the object.
+You can neglect the left part of the object.
+Right? So this was done, you know, thirty years ago Almost
+now the cool thing about this. We're gonna just touch on this really, briefly in the class. We're never going to learn brain networks. But of course you can imagine there's lots of brain areas connected to this. We talked a little bit about vision and a little bit about the motor system,
+right? But to be able to do any any behavior, even the most simplest one, for the particular ocular reflex. I have colleagues who studied this for their whole career, and write papers about the V. Or their whole life.
+When I was a student in the Ninety S. Right, and I would meet them at conferences, and they tell me the coolest new thing they did in their lab, you know, putting a person in a chair and spinning them around for a half an hour, and then watching their behavior of the rise and see how long it decays right, and then train them to do the stuff,
+and they play with one part of the network, right? Maybe some part of this brain or the pathway to here for their whole career
+right? This is a an attentional model of neglect
+designed in one thousand nine hundred and ninety, and it still kind of holds true.
+Okay? So any questions on this little spot where we are in the course so far yawning and neglect, and the idea of behaviors we're going to talk about
+all right. So i'm gonna let's take a break. We'll let the tas disappear if they want to, because they can, because I think you both know what a neuron is right.
+Unknown Speaker
+Unknown Speaker
+00:34:21
+Yeah.
+JF
+Joseph FX DeSouza
+00:34:22
+So that's great. I got to plug in my laptop and let's take a like a ten minute break. Gives you enough time to go get a
+a snack
+for us.
+Okay? So uh everyone's back
+that's recording. Yeah,
+yeah, I hit it really fast. I was lucky.
+So Ah, what we're going to start to dive into now is essentially what these building blocks are. Um! Of what a neuron is. So I have a couple of pictures here from the textbook
+here's neurons, and you're going to see millions of different slides throughout your life, and probably not in this course. But the Google search neurons. There's lots of papers that have slides that are picked from a certain network that people were studying, and they
+either somehow stain them or highlight them, or genetically modify them to glow with certain lights, and then you can visualize it once the animals are sacrificed,
+or in in vivo with an animal alive.
+This is just an example of a you know cell body of and dendrites and an axon from a neuron, right, a specific type of neuron.
+And then you have glial cells which are intermixed with neurons all throughout the brain in central nervous system and purple nervous system, and they have different stands. So you can visualize them and compare across the two in a slice,
+depending on what the the researchers experiment was.
+Right. In this case it's just a picture highlighting what they are.
+It's just structured.
+You're going to see lots of other pictures,
+right? And they're all schematic. There's no two neurons the same. There's no two views of a neuron. That's the same, because remember, they're all three d structures. There are three D blog in your brain that does function. It's there from development. Probably in utero.
+You have some neurons, and they modify their dendrites and synapses as you as you learn when as you grow.
+So
+we're Now, in the chapter two. As I said, chapter, one just kind of stim it. Chapter two is where the front of your work should be in this section of the course.
+So one of the people earlier I was talking to, and they said, Oh, it's one hundred something pages right. You can skim the first chat
+right, and just like flip through it. Look at a few of the figures.
+Ah, in Chapter two is where you have to learn about what's and where the neurons are. So you have the central nervous system where neurons reside, and we're going to talk about and a little bit about the personal nervous system.
+Unknown Speaker
+Unknown Speaker
+00:37:25
+Ah, the basic structure is here,
+JF
+Joseph FX DeSouza
+00:37:27
+all right. So you have a cell body.
+You have dendrites that are inputs to the cell body. The cell body essentially is an accumulator of evidence from the dendrites, and it makes a decision whether to send a signal down
+the axon,
+tell another neuron or another muscle to do something, and that something is to fire right an electrical pulse
+right? And so
+what ends up happening? I'm going to show you in the next slide. But somewhere where the cell body
+becomes the axon. There's a specialized spot called the Axon Hillock
+that sums all the electrical information coming in
+and sends it down the accent.
+And you have to remember this, this axon and this this cell, body and and all the dendrites you can visualize like a tree in the forest. It's a three d structure. It changes, it moves. It's very dynamic, Right? It doesn't feel, win, but it does feel flow of
+the water
+right when you when you move your head like this. The neurons probably jiggle a little bit right, because if you're in a car accident and your brain is going at one hundred kilometers an hour, and it stops immediately. You can get
+right because of the sheer force of stopping your brain, and your brain keeps moving in the skull
+right, and the basic thing that can happen is I don't know how I I don't have a slide of this right now, but but you can imagine where your skull is and where your nasal cavity is. There's little things that go through the skull
+to then be able to pick up sense and chemicals, and in a shearing accident those get shared off because of the movement, and you'd lose the sense of smell,
+and probably the rest of your life
+right, depending on what the damage was. So these are jiggly little things in our brain.
+I'm: super small.
+Uh, yeah, I already mentioned what the accent is
+now the terminal buttons are the ends of these axons. The electrical pulse goes down this axon. It's the end, and at the end it's not electrical current that jumps to the next.
+It's a chemical thing. So we're gonna talk about this in the future. It's not a big deal, and you'll read about it. But
+at the end of these terminal buttons something is released, a drug.
+It could be a dopamine. It could be acetylcholine in the example I showed you here. If it was the third cranial nerve, it's acetal cold
+right? Um. It could be a hormone which we're going to show. I'm going to show you in a couple of slides.
+This is just a bunch of different types of neurons, right? So you can have any neurons. So this is a model neuron the example that you would draw like I would draw on the board here.
+It's an example Neuron: right? You have some inputs coming in from another neuron on some cell body that integrates it, adds it together,
+and then it conducts down the axon, and it
+releases some drug to then send a signal back down the street.
+And as I mentioned earlier in one of the examples about how many neurons it takes to see your fingerprint you
+right? This takes four milliseconds. One action potential
+right? So as fast as a neuron can fire, is It's just the math. It's about two hundred and fifty times a second.
+Right. That's the Max kind of red lined. If you got in your car, put your gas all the way down and saw your If you have a six shift. Saw your red line go up. That's as fast as your neurons can find
+right. So in the model case in sensory cases, So you have different configurations. We're going to talk about these when we get to those chapters four and five and six, or we're skipping one of them motor neurons which synapse on muscles. All our muscles in our body are controlled nearely.
+All right. So some of the work we do when we talk with,
+say artists or or people who are dancers.
+They use this analogy like I don't know if there's any dancers in the audience here just quickly raise your hand. So I don't know if, when you were learning something or sequence of movements together, if your teacher or something, you've got to learn it so that it becomes a motor memory,
+right? And the memory is in your muscles.
+There's there's no way to really know that right? It's really in the neurons that are controlling your muscles. So
+right this deep down,
+learning where you learn how to do something,
+you don't have to be a dancer to experience this like I I I've been stick shift driving my car since I was sixteen, and i'm fifty something. So I've encoded this so deep that I cognitively don't have to use any resources to do.
+And it's a multi-sensory signal thing. I listen to the engine. I pay attention to environments. The speed. So that's a vision coming in, and I can up, shift down, shift, use my feet. No problem.
+I played softball all weekend, and my one leg is a little tight from playing, Saw five games of softball on the weekend, and so I noticed me shifting my clutch this morning
+for maybe the first five, ten, ten minutes. So so it's only when there's some interruption in your automatic process, the muscle memory gets.
+So that's an example. I don't. I don't know if anyone else like thinks of a behavior they have that they've had since they're a child like anyone can shout out to behavior That's for sure. A met like something that's become like,
+What's that.
+So? Yeah, musical instruments like. If you're a pianist or a harpist or a guitarist like you can play a a musical song that you practice, since You're a kid by just starting the first note
+at the dance class. I was at this morning or this afternoon. The pianist bob the
+he's probably in his like retirement age. I don't know what his age is, but we were talking about how he's forgetting names. I've known him for ten years. I haven't seen him since Covid, and he couldn't remember me.
+I'm like Oh, i'm this guy, Joe sousa I've been working in the Valley school for ten years, and he's like
+Oh, I kind of remember you like, and and it took a while for, and then we were talking, and i'm like, Well, you're never going to forget the songs you've been playing for like fifty years. It's like Oh, I know I never forget it
+right. And and so this muscle memory is not really muscle memory. It's a network of brain areas that is so deep structured down. So we're going to talk about thelamic structures and basic Anglia structures. And ideally. If you don't use your cortex, you're using
+down reflexes that you've overtrained. So music instruments is a great example. Yeah,
+Yeah, there's some great Ah, Youtube videos on there. If anyone sees any cool videos flip on to me, I love them, and they're great for lecture material. Um, those are great. Yeah. And and this this man Bob, who is a pianist for over fifty years he was saying the same thing.
+He's losing his memory, but he can still work.
+One of the basic things that I think everyone in this audience does is brushing your teeth
+right. You wake up in the morning, you brush your teeth. You don't think about anything. You probably think about the rest of the stuff you're going to do right after, but just try to brush your teeth with your other hand.
+Right? It's like not encoded in memory. It's a you. You have the cognitive task right, you know you're brushing your
+You know the behavior putting to paste on. You know the pattern you do just switch your hand
+right. The it's really motor-based the neurons that do your teeth brushing. You start out, and you go through the execution of it the whole thing, and only do you ever modify it if you're dental, I Jettis, or your dentist says, Oh, you're missing this part. You're going to get like, you know, some bad stuff happening
+like Pay attention to that.
+You incorporate that new instruction into your behavior if you do so. This is what we all do. And the motor neurons are doing this with our
+muscles. Okay? And then
+you have local inter neurons,
+right? So these are super small neurons that are, say, buried in the motor area. So it would all be within a we're talking about canis. It would be in a little part of the finger. It wouldn't leave that part of cortex.
+It's axon it's dendrites. It's cell body. It's all within there so it's a super small neuron, and it may do some function like suppress the firing going out right or accumulate some in instruments like learning like it, like we're talking about learning. When you learn
+the connections between this incoming neuron, the dendrites where the synapse is, it can either get enhanced, get reduced
+or it can change structure,
+or it can release more drugs. And all this is done by modifying the structure because it has to happen fast. We talked about this happening in four milliseconds so super fast.
+What's cool is There's probably interneurons
+your brain in in the fusiform face error which we're going to talk about when we get to the visual chapters, we
+where you you came into class, say you learned some stuff,
+but the coolest thing you're going to learn today is you've now encoded my sound from my mouth
+with my visual features of my face.
+All right, So this is the coolest thing you've learned, and your brain is going to learn this in such a way. By the next time we come together
+your brain is going to have a new
+group of synapses that now is a face link to with Joe the sound and my voice so like we might be walking. I might be walking past you in, or You're probably walking past me as I walk slow in like your lanes, and you hear me talking to someone, and you'll turn
+because you have this recognition now from some process of learning in your brain.
+Unknown Speaker
+Unknown Speaker
+00:48:07
+What's cool is us. Neuroscientists are just starting to understand what can happen,
+JF
+Joseph FX DeSouza
+00:48:12
+but we can't pinpoint in your brain where the learning happened. For this
+it's a
+local inch. Neurons are related to everything like There's almost every function. Every network will have local inter neurons that are modifying, adapting, and tuning Behave
+right? So. But that's a great question.
+We're going to talk about it more in lots of detail. Yeah, it's they're all over.
+Then we have, like other types of neurons that synapse on these inter neurons to do something. And then so one example of
+like a projection neuron modifying reflex behavior. So we started at the class in the first slide, talking about the pain, withdrawal, reflex,
+right? So imagine.
+So I have this.
+We're in my kitchen, and this is
+now it's all
+This is like a big cash role of cooking for, like my friends, to come over them,
+and i'm chatting. I'm maybe having a beer with my friends, and my kids are running around like maniacs, and we're having a party
+right. So my hey reflexes for my call,
+but my cognitive reflex is, i'm not going to
+break what I just did. So I drop the crank, but I still hold on to it enough, and then I run to the water It cool that.
+So imagine that's a prefrontal neuron. So this this projection neuron here could be a neuron in my frontal cortex somewhere in the front here, or here that projects to these neurons that control my hand, to then suppress the neurons through interneurons
+to not do the reflex
+right? And this is the way that our cognitions override our reflexes all the time
+through these connections.
+So does that make sense.
+And in
+today. This is just like a first-pass flavor. Um! I already see a lot of black faces which is cool because it's super complex. Um. Maybe we'll just stop after this slide, and and i'll post the rest of the slides from another lecture after this. But yeah, it's
+yeah, there's lots to talk about. So imagine this is this: You have another example, Neuron. Here you have the cell body of all the dendrites up here,
+and then you have an axon leaving, and axons can branch right? So so there's lots of connections that are one
+neuron can make with other
+postsynaptic
+potential connections.
+Um. So this is just a schematic showing this, and then I kind of animated the little bits. So you got axons from other neurons coming in on one part of this tree, and then you got other ones here. So imagine this is a neuron within some part of your visual system. Coding faces
+right, and there's no such thing as a grandfather cell or a a grandmother. So there's no one neuron that codes for, say your face and then adjacent neuron quotes for your face, right? It's a network of firing and activity. But we can schematically say that this is the sound coming from auditory areas
+that are now synapsing on a neuron that's in the face area.
+Then this might be
+something else, Maybe the the tone of my voice coming in from some part of the right
+auditory cortex telling you the prosody of my vice, my voice, the emotion that I have right. If i'm trying to tell you a joke, or i'm trying to be serious. And and these are synapsing in this neuron. That's a a higher order, Visual face neuron that is
+coding. Who? The essence of Joe is
+right, because the people way back in the last role.
+The part I project on your retina is much smaller than the people up here
+like I fill a lot of the visual field, so it's not related to vision and per se, just like the neglect, the Galactic example. It's not the amount of vision it's, the amount of processing that happens Post Street right? And there's some other things like
+maybe maybe this one one of these synapses comes in with, say, someone here loved University of West Frontier,
+and you have a link or an association with that because you went there for undergrad, maybe in your first year,
+because I said I went to Western that gets linked into this one as part of the Meta cognition of what I am as a human being, right.
+All these things get synapsed on some cell body,
+and this gets connected, and these synapses change in such a way that
+to then modify it. Now, maybe what's cool is in A, in a neuron that doesn't exist adjacent to this,
+you might have another prof that you had last year, the only met online you
+Unknown Speaker
+Unknown Speaker
+00:53:30
+then a couple the few people here who said you went to classes before. It was like four or five of you.
+JF
+Joseph FX DeSouza
+00:53:35
+You met some other prophets in your first very first year of here that was in like person.
+Their voice might sound different than someone online. You know this right? So all these things get put together in this higher order, neuron, and maybe there's a chunk of brain somewhere in
+somewhere within the temporal cortex. So
+so somewhere in here there's an area called the fusiform face area.
+This huge form of this area no one knows how it's really structured,
+but maybe there's a column or a structure within it
+that's for professors, say, or teachers in general,
+and maybe there's a teacher that was very close to me.
+Terms of the way I teach in terms of the way I look, and maybe it would be adjacent in a column within this
+right? So i'm using this analogy as imagine we now jump to visual cortex,
+then the visual parts X. What's cool is
+there's columns for different structures. And so, if you see a line orientation like this, anything within this column is coding a part of the visual world for that orientation.
+Right? So imagine this is a part of an a, a letter, and then the orientation
+slowly progresses to horizontal, and then back.
+And this would be a small chunk of the visual world, so like
+the guy that's very back there who has a Starbucks cup,
+Who's kind of looking down you with the glasses.
+You're looking at me right now, and I take up a super small part of visual field. I probably might be in a very small part of the visual world. So in your retina
+you're looking right at me. My face would be a small part. Maybe you could discriminate my eyes and my like faith, my lips. But that's it
+right. And if I do this
+and I was recording from part of your brain you're on.
+If I did this because my orientation is changing
+all right, this would be here. It would fire for this one.
+So this orientation in the visual cortex is organized in a certain fashion based on the minds.
+That's just the way the visual system is, and we're going to get into this in Chapter six.
+But maybe this organization is same for higher order. Things like
+people. You love your family. Strangers like nobody knows this in terms of face structure
+in a high order vigil.
+But that's a big tangent. I didn't want to even go there. I did sorry it was probably very bad.
+Was it bad?
+Okay, I never used that one before. All right. So so then you have the axon going out,
+and this action only as an electrical current. If all the summation across all these dendrites or all these pink inputs is enough to pass a threshold,
+right? And some people say, Well, if the neuron fires. It makes it the suit sixteen.
+So that summation is super simple. I'll gonna show you like some. So say this neuron Here it's in some animal, a lower human.
+We're recording at current.
+So this is an electrical current. It's a mill of vaults.
+And Yep,
+based on. And if there's no one input to this they're on. It would be across time like this. Say, some input comes in.
+It'll first up a little, a little bit like this, and it sums as inputs come into it
+right. But what happens is you have.
+If it decays really fast, you have to have enough input in time to be able to fire.
+So it has to be enough current coming in. So that's a great question in terms of timing, so say only these fired, and, like second later these ones fired, and the second later these ones fired. That's not enough to some to make an outlet right? So this famous like neuroscientist
+Mcgill. Donald Heads once coined this term. Neurons that fire together wire to them
+right? So when you're learning, say a piano sequence of movements on with your motor system.
+The first movement and the second movement on the third nose is all in sequence with that right, and it has to happen in a perfect timing. If you miss one, then it sounds off because you're matching a template
+right? So you have to have the right timing to do this. Does that help answer that question.
+Any other questions related to this is super complex. We're gonna come back to it like almost every class over the next few classes.
+But the main thing I want you to know today is that once the cell body makes this decision where it's gonna fire,
+the access potential happens,
+and This action potential takes four milliseconds.
+Super fast
+super fast inter neurons because they're super small. It might take three milliseconds or two milliseconds because they're super small
+right, and their axon is is smaller. So the process of electrical current half is faster
+Unknown Speaker
+Unknown Speaker
+00:59:06
+one year.
+JF
+Joseph FX DeSouza
+00:59:11
+Yeah, I can fired. So so this one down here
+imagine this is like one there, and you can see this one. They're on the
+Oh, where we are
+right. So you imagine this is on another neuron, but it still has an axon coming out here, and this could fire on something else right, and when the current comes down I only drew this side, But if I drew this side this could be synapsing. Say, if this is the same
+neuron of my system, this face neuron might project to say
+some area related to memory
+right because we're coding memory of what i'm saying, and this one might be coding like an emotion in the amygdala, so the circuit can branch, and they do. That's the way that's the super complex thing that very few neuroscientists have been able to figure out
+how one neuron interacts with lots of things,
+but that's a great question. I think that's a great place to end.
+Yeah, let's end here.
+I'm going to stop the recording
+and ask.
+Please ask questions. If you want.
