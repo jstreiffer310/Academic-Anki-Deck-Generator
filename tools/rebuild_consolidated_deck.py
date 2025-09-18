@@ -24,7 +24,10 @@ except ImportError:
 
 def load_comprehensive_analysis():
     """Load the comprehensive content analysis JSON"""
-    analysis_path = "/workspaces/PSYC2240-Anki-Deck-Generator/content/analysis/comprehensive_content_analysis.json"
+    # Use relative path from script location
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    workspace_root = os.path.dirname(script_dir)
+    analysis_path = os.path.join(workspace_root, "content", "analysis", "comprehensive_content_analysis.json")
     
     if not os.path.exists(analysis_path):
         print("❌ ERROR: comprehensive_content_analysis.json not found!")
@@ -395,7 +398,10 @@ def create_priority_decks():
 
 def cleanup_old_decks():
     """Clean up old deck files to prevent repository bloat"""
-    output_dir = "/workspaces/PSYC2240-Anki-Deck-Generator/output"
+    # Use relative path from script location
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    workspace_root = os.path.dirname(script_dir)
+    output_dir = os.path.join(workspace_root, "output")
     
     # First, clean up existing backups (keep only the most recent one)
     backup_files = glob.glob(os.path.join(output_dir, "*_backup_*.apkg"))
@@ -452,7 +458,10 @@ def cleanup_old_decks():
 
 def cleanup_temp_analysis_files():
     """Clean up temporary analysis files that may accumulate"""
-    analysis_dir = "/workspaces/PSYC2240-Anki-Deck-Generator/content/analysis"
+    # Use relative path from script location
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    workspace_root = os.path.dirname(script_dir)
+    analysis_dir = os.path.join(workspace_root, "content", "analysis")
     
     # Look for temporary or duplicate analysis files
     temp_patterns = [
@@ -480,7 +489,10 @@ def cleanup_temp_analysis_files():
 
 def cleanup_all_backups():
     """Force cleanup of ALL backup files - useful for repository maintenance"""
-    output_dir = "/workspaces/PSYC2240-Anki-Deck-Generator/output"
+    # Use relative path from script location
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    workspace_root = os.path.dirname(script_dir)
+    output_dir = os.path.join(workspace_root, "output")
     
     backup_files = glob.glob(os.path.join(output_dir, "*_backup_*.apkg"))
     files_removed = 0
@@ -598,8 +610,10 @@ def main():
         decks['cloze']
     ])
     
-    # Output path
-    output_path = "/workspaces/PSYC2240-Anki-Deck-Generator/output/PSYC2240_Consolidated_Deck.apkg"
+    # Output path using relative path
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    workspace_root = os.path.dirname(script_dir)
+    output_path = os.path.join(workspace_root, "output", "PSYC2240_Consolidated_Deck.apkg")
     package.write_to_file(output_path)
     
     print(f"\n🎉 SUCCESS! Consolidated deck created:")

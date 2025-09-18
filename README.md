@@ -1,98 +1,110 @@
 # PSYC 2240 Anki Deck Generator
 
-Comprehensive flashcard system for PSYC 2240 (Biological Basis of Behaviour) optimized for memory retention and October 8th exam preparation.
+Comprehensive, optimized flashcard system for PSYC 2240 (Biological Basis of Behaviour) with 585+ cards across multiple decks.
 
 ## 🚀 Quick Start
 
-### Option 1: Main Study Deck (Recommended)
-```bash
-./setup.sh
-# Choose option 1 - Main study deck
+### Ready-to-Use Decks
+Import the pre-built CSV files directly into Anki:
+
+```
+decks/PSYC2240_Complete_AnkiDeck.csv       # Main study cards
+decks/PSYC2240_Complete_Cloze_Cards.csv   # Cloze deletion cards
 ```
 
-Your 829-card deck is ready to import:
-- **File**: `output/PSYC2240_Consolidated_Deck.apkg`
-- **Setup Guide**: `output/FSRS_SETUP_GUIDE.md`
-- **FSRS Optimized**: Pre-configured for 20-day study timeline
+**Total Cards**: 585+ optimized for memory retention and exam success.
 
-### Option 2: VS Code Integration (Advanced)
-```bash
-./setup.sh
-# Choose option 2 - VS Code integration
-```
+## 📊 Current Deck Status
 
-Create supplemental cards directly from VS Code while studying.
-
-## 📊 Deck Statistics
-
-| Deck | Cards | Focus |
-|------|-------|-------|
-| **High Priority** | ~250 | Clinical cases, exam-critical concepts |
-| **Medium Priority** | ~300 | Core terminology, important processes |
-| **Low Priority** | ~200 | Supporting facts, context details |
-| **Cloze Context** | ~79 | Fill-in-the-blank with context |
-| **Total** | **829** | **Complete PSYC 2240 coverage** |
+| Component | Cards | Description |
+|-----------|-------|-------------|
+| **Main Deck** | 400+ | Question-format cards with functional answers |
+| **Cloze Cards** | 185+ | Context-preserving fill-in-the-blank cards |
+| **Total Coverage** | **585+** | Complete PSYC 2240 course material |
 
 ## 📁 Repository Structure
 
 ```
 PSYC2240-Anki-Deck-Generator/
-├── � setup.sh                  # Main setup script - START HERE
-├── �📦 output/                   # Ready-to-use deck files
-│   ├── PSYC2240_Consolidated_Deck.apkg  # 829-card study deck
-│   └── FSRS_SETUP_GUIDE.md              # Optimization settings
-├── 🃏 anki-cards/              # VS Code card templates
-│   ├── high-priority.md        # Clinical cases examples
-│   ├── medium-priority.md      # Core concepts examples
-│   ├── low-priority.md         # Background facts examples
-│   ├── cloze-cards.md         # Context cloze examples
-│   ├── test-cards.md          # Test file for integration
-│   └── SETUP_GUIDE.md         # Card creation guide
-├── 📚 content/                 # Source materials
-│   ├── course-materials/       # Lectures, textbook, notes
+├── 📦 decks/                   # READY-TO-USE ANKI DECKS
+│   ├── PSYC2240_Complete_AnkiDeck.csv      # Main study deck
+│   ├── PSYC2240_Complete_Cloze_Cards.csv  # Cloze deletion deck
+│   ├── COMPLETE_IMPORT_GUIDE.md           # Import instructions
+│   └── FINAL_COMPREHENSIVE_GUIDE.md       # Complete setup guide
+├── 🛠️ tools/                   # WORKING TOOLS
+│   ├── comprehensive_card_searcher.py     # Card quality optimizer
+│   ├── comprehensive_content_extractor.py # Content extraction
+│   ├── rebuild_consolidated_deck.py       # Deck rebuilder
+│   └── audio_transcript_analyzer.py       # Transcript analysis
+├── 📚 content/                 # SOURCE MATERIALS
+│   ├── course-materials/       # Lectures and course content
 │   ├── lectures/              # Audio transcripts
-│   └── textbook/              # Extracted content
-├── � setup/                   # Setup and connection scripts
-│   ├── connect_to_anki.sh     # Main connection setup
-│   ├── test_connection.sh     # Connection tester
-│   ├── test_anki_connection.py # Python connection test
-│   └── setup_anki_windows.bat # Windows Anki setup
-├── � docs/                    # Documentation
-│   ├── SIMPLE_TEST_GUIDE.md   # Quick VS Code setup
-│   ├── ANKI_VSCODE_INTEGRATION.md # Detailed integration
-│   └── CODESPACE_ANKI_SETUP.md # Codespace-specific setup
-└── 🛠️ tools/                   # Build scripts
-    └── rebuild_consolidated_deck.py # Deck generator
+│   └── textbook/              # Extracted textbook content
+├── 📋 anki-cards/             # CARD TEMPLATES & EXAMPLES
+│   ├── high-priority.md       # Critical concept examples
+│   ├── medium-priority.md     # Core terminology examples
+│   ├── low-priority.md        # Supporting detail examples
+│   └── cloze-cards.md         # Context cloze examples
+├── 🎯 output/                 # GENERATED PACKAGES
+│   └── PSYC2240_Consolidated_Deck.apkg   # Complete Anki package
+├── 📄 scripts/                # POWERSHELL UTILITIES
+│   ├── extract_chapters.ps1   # Chapter extraction
+│   ├── extract_content.ps1    # Content processing
+│   └── deck_management.ps1    # Deck utilities
+└── � source/                 # RAW EXPORTS
+    └── textbook_full_content.txt          # Source textbook content
 ```
 
-## 🎯 Usage Guide
+## 🎯 How to Use
 
-### For Studying (Primary Use)
-1. **Run setup**: `./setup.sh` → Option 1
-2. **Import deck**: `output/PSYC2240_Consolidated_Deck.apkg` to Anki
-3. **Configure FSRS**: Follow `output/FSRS_SETUP_GUIDE.md`
-4. **Study daily**: Optimized for October 8th exam
+### For Studying (Recommended)
+1. **Import CSV files**:
+   - Main deck: `decks/PSYC2240_Complete_AnkiDeck.csv`
+   - Cloze cards: `decks/PSYC2240_Complete_Cloze_Cards.csv`
+2. **Follow import guide**: `decks/COMPLETE_IMPORT_GUIDE.md`
+3. **Configure study settings**: Use FSRS algorithm for optimal retention
+4. **Start studying**: Cards optimized for memory retention
 
-### For Creating Cards (Optional)
-1. **Run setup**: `./setup.sh` → Option 2
-2. **Follow prompts**: Set up connection to local Anki
-3. **Create cards**: Edit files in `anki-cards/` directory
-4. **Send to Anki**: Ctrl+Shift+P → "Anki: Send to Deck"
+### For Development/Maintenance
+1. **Card Quality**: Use `tools/comprehensive_card_searcher.py` to find and fix issues
+2. **Content Extraction**: Use `tools/comprehensive_content_extractor.py` for new content
+3. **Deck Rebuilding**: Use `tools/rebuild_consolidated_deck.py` to regenerate packages
 
-## 📈 Exam Preparation Timeline
+## 🧠 Card Optimization Features
 
-- **Week 1-2**: Import main deck, configure FSRS, establish routine
-- **Week 3-4**: Daily reviews + optional supplemental cards via VS Code
-- **Final Week**: Focus review on weak areas identified by Anki
-- **October 8th**: Exam day - you're prepared! 🎯
+- **Question Format**: Functional questions ("What does X do?") vs definitions
+- **Concise Answers**: 1-2 sentences for optimal memory retention
+- **Clinical Focus**: Real-world applications and case studies
+- **Context Preservation**: Cloze cards maintain textbook context
+- **Quality Verified**: All cards checked for clarity and completeness
 
-## 🧠 Memory Optimization Features
+## 🔧 Technical Details
 
-- **Question Format**: "What does X do?" vs simple definitions
-- **Concise Answers**: 1-2 sentences for optimal retention
-- **Clinical Focus**: Real-world applications and case examples
-- **FSRS Algorithm**: Scientifically-optimized review scheduling
+### Working Tools (Keep)
+- `comprehensive_card_searcher.py` - Mass card quality improvement
+- `comprehensive_content_extractor.py` - Multi-source content extraction
+- `rebuild_consolidated_deck.py` - Native Anki package generation
+- `audio_transcript_analyzer.py` - Lecture transcript processing
 
-**Ready to ace PSYC 2240! 🧠📚**
+### Dependencies
+- **Python**: requests, genanki (for package generation)
+- **PowerShell**: For Windows-based content extraction
+- **Anki**: Desktop application for importing and studying
 
-**Start with: `./setup.sh`**
+## 📈 Success Metrics
+
+- **Cards Created**: 585+ high-quality flashcards
+- **Quality Score**: All cards verified for clarity and completeness
+- **Format Consistency**: Standardized CSV format for reliable import
+- **Memory Optimization**: Question-answer format proven for retention
+
+## 🎓 Study Recommendations
+
+1. **Daily Reviews**: Use Anki's spaced repetition algorithm
+2. **Focus Areas**: Prioritize cards tagged with clinical examples
+3. **Integration**: Combine with lecture notes and textbook reading
+4. **Tracking**: Monitor retention rates and adjust study schedule
+
+**Ready to master PSYC 2240! 🧠📚**
+
+*Last updated: Repository cleaned and optimized - all tools working, 585+ cards ready for study*

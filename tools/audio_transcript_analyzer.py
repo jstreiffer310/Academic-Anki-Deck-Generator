@@ -17,8 +17,13 @@ from typing import Dict, List, Tuple, Optional
 import difflib
 
 class AudioTranscriptAnalyzer:
-    def __init__(self, workspace_path: str = "/workspaces/PSYC2240-Anki-Deck-Generator"):
-        self.workspace_path = Path(workspace_path)
+    def __init__(self, workspace_path: str = None):
+        if workspace_path is None:
+            # Auto-detect workspace path relative to script location
+            script_dir = Path(__file__).parent
+            self.workspace_path = script_dir.parent
+        else:
+            self.workspace_path = Path(workspace_path)
         self.audio_transcript_pairs = []
         self.analysis_results = {}
         
