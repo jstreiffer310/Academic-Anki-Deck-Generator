@@ -1,14 +1,64 @@
-# PSYC 2240 Anki Deck Generator
+# Academic Anki Deck Generator
 
-Comprehensive, optimized flashcard system for PSYC 2240 (Biological Basis of Behaviour) with 585+ cards across multiple decks.
+A comprehensive, multi-class flashcard generation system that transforms course materials into optimized Anki decks. Originally designed for PSYC 2240, now supports unlimited courses with organized deck generation.
 
-## 🚀 Quick Start
+## Repository Structure
+
+```
+├── courses/                    # All class-specific content
+│   ├── PSYC2240/              # Psychology 2240: Biological Basis of Behaviour
+│   │   ├── content/           # Course materials (textbooks, lectures)
+│   │   ├── decks/             # Generated Anki decks
+│   │   ├── tools/             # Course-specific tools
+│   │   ├── source/            # Source materials and extracts
+│   │   └── output/            # Generated outputs
+│   └── [ANY_COURSE]/          # Template for unlimited courses
+├── shared/                     # Cross-course utilities
+│   ├── tools/                 # Generic Anki tools
+│   └── scripts/               # Shared PowerShell scripts
+├── templates/                  # Templates for new courses
+└── docs/                      # Documentation and guides
+```
+
+## ✨ Key Features
+
+- **Multi-Course Support** - Unlimited courses with organized structure
+- **Memory Optimization** - Cards designed for maximum retention
+- **Automated Generation** - Transform textbooks and lectures into cards
+- **Quality Assurance** - Built-in validation and corruption detection
+- **Template System** - Standardized setup for new courses
+- **Cross-Platform** - Windows, macOS, Linux support
+
+## Adding a New Course
+
+1. **Copy the template:**
+   ```bash
+   cp -r templates/course-template courses/YOUR_COURSE_CODE
+   ```
+
+2. **Add your course materials:**
+   - Place textbooks/PDFs in `courses/YOUR_COURSE_CODE/content/`
+   - Add lecture transcripts to `content/lectures/`
+   - Update course-specific information
+
+3. **Use shared tools:**
+   - Leverage `shared/tools/` for generic Anki operations
+   - Adapt tools from existing courses as needed
+
+## Existing Courses
+
+### PSYC 2240 - Biological Basis of Behaviour
+- **Status:** Fully implemented with 585+ optimized cards
+- **Content:** Neuroanatomy, brain disorders, cognitive processes
+- **Tools:** PDF analysis, content optimization, corruption fixing
+
+## 🚀 Quick Start (PSYC 2240)
 
 ### Ready-to-Use Decks
 Import the pre-built CSV files directly into Anki:
 
 ```
-decks/PSYC2240_Complete_AnkiDeck.csv       # Main study cards
+courses/PSYC2240/decks/PSYC2240_Complete_AnkiDeck.csv       # Main study cards
 decks/PSYC2240_Complete_Cloze_Cards.csv   # Cloze deletion cards
 ```
 
@@ -25,14 +75,17 @@ decks/PSYC2240_Complete_Cloze_Cards.csv   # Cloze deletion cards
 ## 📁 Repository Structure
 
 ```
-PSYC2240-Anki-Deck-Generator/
-├── 📦 decks/                   # READY-TO-USE ANKI DECKS
-│   ├── PSYC2240_Complete_AnkiDeck.csv      # Main study deck
-│   ├── PSYC2240_Complete_Cloze_Cards.csv  # Cloze deletion deck
-│   ├── COMPLETE_IMPORT_GUIDE.md           # Import instructions
-│   └── FINAL_COMPREHENSIVE_GUIDE.md       # Complete setup guide
-├── 🛠️ tools/                   # WORKING TOOLS
-│   ├── comprehensive_card_searcher.py     # Card quality optimizer
+Academic-Anki-Deck-Generator/
+├── 📦 courses/                 # ALL COURSE CONTENT
+│   └── PSYC2240/              # Example course (Psychology)
+│       ├── decks/             # Ready-to-use Anki decks
+│       ├── content/           # Course materials
+│       └── tools/             # Course-specific tools
+├── 🛠️ shared/                  # SHARED UTILITIES
+│   ├── tools/                 # Generic Anki tools
+│   └── scripts/               # PowerShell automation
+├── 📋 templates/               # COURSE TEMPLATES
+└── 📖 docs/                   # DOCUMENTATION
 │   ├── comprehensive_content_extractor.py # Content extraction
 │   ├── rebuild_consolidated_deck.py       # Deck rebuilder
 │   └── audio_transcript_analyzer.py       # Transcript analysis

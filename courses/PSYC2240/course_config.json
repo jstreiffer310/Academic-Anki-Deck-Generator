@@ -1,0 +1,22 @@
+{
+  "course_code": "PSYC2240",
+  "course_name": "Biological Basis of Behaviour",
+  "semester": "Fall 2022",
+  "textbook_title": "An Introduction to Brain and Behavior 7th Edition",
+  "instructor": "Dr. Psychology",
+  "card_generation": {
+    "target_count": 585,
+    "question_format": "interrogative",
+    "answer_length": "concise",
+    "memory_optimization": true,
+    "clinical_examples": true
+  },
+  "content_sources": {
+    "textbook": true,
+    "lectures": true,
+    "additional_materials": true
+  },
+  "export_formats": ["csv", "apkg"],
+  "chapter_coverage": "1-3",
+  "last_updated": "2025-09-18"
+}

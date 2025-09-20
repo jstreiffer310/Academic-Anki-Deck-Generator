@@ -1,7 +1,7 @@
-# PSYC 2240 Anki Deck Generator - AI Instructions
+# Academic Anki Deck Generator - AI Instructions
 
 ## Project Overview
-Educational flashcard generator for PSYC 2240 (Biological Basis of Behaviour) that transforms textbook content into optimized Anki CSV decks. The project emphasizes memory-retention principles over simple term-definition cards.
+Multi-class educational flashcard generator that transforms course materials into optimized Anki CSV decks. Originally designed for PSYC 2240 (Biological Basis of Behaviour), now supports unlimited courses with scalable architecture. The project emphasizes memory-retention principles over simple term-definition cards.
 
 ## Key Architecture Patterns
 
@@ -13,12 +13,12 @@ Educational flashcard generator for PSYC 2240 (Biological Basis of Behaviour) th
 
 ### File Structure & Data Flow
 ```
-source/textbook_full_content.txt → scripts/ → decks/
+courses/[COURSE_CODE]/content/ → shared/tools/ → courses/[COURSE_CODE]/decks/
 ```
-1. **source/**: Raw extracted textbook content (single source of truth)
-2. **scripts/**: PowerShell extraction and processing tools (Windows-centric)
-3. **decks/**: Final CSV outputs for Anki import
-4. **docs/**: AI prompts and generation methodology
+1. **courses/**: Course-specific content organized by course code
+2. **shared/**: Cross-course utilities and PowerShell tools
+3. **templates/**: Standardized course structure templates
+4. **docs/**: Multi-class documentation and methodology
 
 ### CSV Format Standards
 ```csv
