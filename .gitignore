@@ -6,21 +6,53 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Windows
 desktop.ini
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # Temporary files
 *.tmp
 *.temp
 ~*
+*.swp
+*.swo
 
-# Backup files
+# Backup files  
 *.bak
 *.backup
 
 # Log files
 *.log
+logs/
 
 # IDE files
 .vscode/
@@ -28,14 +60,20 @@ desktop.ini
 *.swp
 *.swo
 
-# PowerShell specific
-*.ps1xml
+# Processing artifacts
+courses/*/processing/logs/
+courses/*/processing/temp/
+courses/*/decks/drafts/
+courses/*/content/raw/
 
 # Large binary files (if any)
 *.pdf
 *.docx
 *.pptx
 *.xlsx
+*.zip
+*.rar
+*.7z
 
 # Audio files (too large for git)
 *.m4a
@@ -43,9 +81,10 @@ desktop.ini
 *.wav
 *.aac
 
-# But keep our specific working files
-!textbook_full_content.txt
-!document_content.xml
-!*.csv
+# But keep essential working files
+!courses/*/decks/final/*.csv
+!courses/*/decks/final/*.apkg
+!courses/*/content/textbooks/textbook_full_content.txt
 !*.md
 !*.ps1
+!requirements.txt

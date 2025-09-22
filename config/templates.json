@@ -1,0 +1,156 @@
+{
+  "templates": {
+    "basic": {
+      "name": "Basic Academic Course",
+      "description": "Standard template for most academic courses",
+      "config": {
+        "course_code": "COURSE_CODE",
+        "course_name": "Course Name",
+        "semester": "Term Year",
+        "instructor": "Professor Name",
+        "card_generation": {
+          "target_count": 100,
+          "question_format": "interrogative",
+          "answer_length": "concise",
+          "memory_optimization": true,
+          "clinical_examples": false,
+          "priority_scoring": true
+        },
+        "content_sources": {
+          "textbook": true,
+          "lectures": true,
+          "additional_materials": false
+        },
+        "export_formats": ["csv", "apkg"]
+      }
+    },
+    "psychology": {
+      "name": "Psychology Course",
+      "description": "Template for psychology courses with clinical focus",
+      "config": {
+        "course_code": "PSYC_CODE",
+        "course_name": "Psychology Course",
+        "semester": "Term Year",
+        "instructor": "Professor Name",
+        "card_generation": {
+          "target_count": 200,
+          "question_format": "interrogative",
+          "answer_length": "concise",
+          "memory_optimization": true,
+          "clinical_examples": true,
+          "case_studies": true,
+          "priority_scoring": true
+        },
+        "content_sources": {
+          "textbook": true,
+          "lectures": true,
+          "clinical_cases": true,
+          "additional_materials": true
+        },
+        "specialized_extraction": {
+          "disorders": true,
+          "treatments": true,
+          "brain_regions": true,
+          "research_methods": true
+        },
+        "export_formats": ["csv", "apkg", "cloze"]
+      }
+    },
+    "science": {
+      "name": "Science/STEM Course", 
+      "description": "Template for science and STEM courses with formulas",
+      "config": {
+        "course_code": "SCI_CODE",
+        "course_name": "Science Course",
+        "semester": "Term Year",
+        "instructor": "Professor Name",
+        "card_generation": {
+          "target_count": 150,
+          "question_format": "interrogative",
+          "answer_length": "concise",
+          "memory_optimization": true,
+          "formulas": true,
+          "equations": true,
+          "units": true,
+          "priority_scoring": true
+        },
+        "content_sources": {
+          "textbook": true,
+          "lectures": true,
+          "lab_materials": true,
+          "problem_sets": true
+        },
+        "specialized_extraction": {
+          "formulas": true,
+          "constants": true,
+          "procedures": true,
+          "calculations": true
+        },
+        "export_formats": ["csv", "apkg", "cloze"]
+      }
+    },
+    "humanities": {
+      "name": "Humanities Course",
+      "description": "Template for text-heavy humanities courses",
+      "config": {
+        "course_code": "HUM_CODE",
+        "course_name": "Humanities Course",
+        "semester": "Term Year", 
+        "instructor": "Professor Name",
+        "card_generation": {
+          "target_count": 120,
+          "question_format": "interrogative",
+          "answer_length": "detailed",
+          "memory_optimization": true,
+          "quotations": true,
+          "themes": true,
+          "priority_scoring": true
+        },
+        "content_sources": {
+          "textbook": true,
+          "primary_sources": true,
+          "lectures": true,
+          "additional_readings": true
+        },
+        "specialized_extraction": {
+          "quotes": true,
+          "themes": true,
+          "characters": true,
+          "historical_context": true
+        },
+        "export_formats": ["csv", "apkg", "cloze"]
+      }
+    }
+  },
+  "directory_structure": {
+    "required_dirs": [
+      "config",
+      "content",
+      "content/textbooks",
+      "content/lectures", 
+      "content/materials",
+      "processing",
+      "processing/extracted",
+      "processing/analysis",
+      "processing/logs",
+      "decks",
+      "decks/drafts",
+      "decks/final",
+      "decks/archives",
+      "tools"
+    ],
+    "optional_dirs": [
+      "content/raw",
+      "content/clinical_cases",
+      "content/lab_materials",
+      "content/primary_sources",
+      "content/additional_readings"
+    ]
+  },
+  "file_templates": {
+    "course_config": "course_config.json",
+    "extraction_rules": "extraction_rules.json",
+    "readme": "README.md",
+    "import_guide": "IMPORT_GUIDE.md"
+  }
+}

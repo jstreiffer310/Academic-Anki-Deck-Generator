@@ -1,0 +1,23 @@
+{
+  "course_code": "PSYC2120",
+  "course_name": "Social Psychology (Fall 2025)",
+  "semester": "Term Year",
+  "textbook_title": "Primary Textbook",
+  "instructor": "Professor Name",
+  "card_generation": {
+    "target_count": 100,
+    "question_format": "interrogative",
+    "answer_length": "concise",
+    "memory_optimization": true,
+    "clinical_examples": false
+  },
+  "content_sources": {
+    "textbook": true,
+    "lectures": true,
+    "additional_materials": false
+  },
+  "export_formats": [
+    "csv",
+    "apkg"
+  ]
+}

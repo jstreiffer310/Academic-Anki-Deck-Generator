@@ -1,0 +1,73 @@
+{
+  "extraction_rules": {
+    "min_text_length": 10,
+    "max_text_length": 500,
+    "exclude_patterns": [
+      "^\\s*$",
+      "^[^a-zA-Z]*$",
+      "^(page|figure|table|chapter)\\s+\\d+",
+      "^copyright",
+      "^references?\\s*$"
+    ],
+    "content_markers": [
+      "chapter",
+      "section", 
+      "learning objective",
+      "definition",
+      "key concept",
+      "summary",
+      "review"
+    ],
+    "learning_objective_patterns": [
+      "(?i)learning\\s+objective[s]?[:\\-]?\\s*(.+?)(?=\\n\\n|\\Z)",
+      "(?i)by\\s+the\\s+end\\s+of\\s+this\\s+chapter[,.]?\\s+you\\s+will[:\\-]?\\s*(.+?)(?=\\n\\n|\\Z)",
+      "(?i)students?\\s+will\\s+be\\s+able\\s+to[:\\-]?\\s*(.+?)(?=\\n\\n|\\Z)",
+      "(?i)objectives?[:\\-]\\s*(.+?)(?=\\n\\n|\\Z)",
+      "(?i)after\\s+reading\\s+this\\s+chapter[,.]?\\s+you\\s+should[:\\-]?\\s*(.+?)(?=\\n\\n|\\Z)"
+    ]
+  },
+  "quality_filters": {
+    "remove_duplicates": true,
+    "filter_incomplete": true,
+    "validate_format": true,
+    "min_question_length": 10,
+    "max_question_length": 200,
+    "min_answer_length": 5,
+    "max_answer_length": 500
+  },
+  "card_generation": {
+    "question_format": "interrogative",
+    "answer_length": "concise",
+    "memory_optimization": true,
+    "include_context": true,
+    "cloze_generation": true,
+    "priority_scoring": true
+  },
+  "deck_settings": {
+    "model_id": 1607392319,
+    "css_styling": true,
+    "enable_cloze": true,
+    "split_by_priority": false,
+    "max_cards_per_deck": 1000
+  },
+  "tagging": {
+    "include_course_code": true,
+    "include_source": true,
+    "include_priority": true,
+    "include_chapter": true,
+    "format": "{course_code} {chapter} {priority}"
+  },
+  "export_options": {
+    "csv_export": true,
+    "apkg_export": true,
+    "json_backup": true,
+    "include_metadata": true,
+    "split_by_type": false
+  },
+  "file_processing": {
+    "supported_formats": [".pdf", ".docx", ".txt", ".md"],
+    "encoding_fallbacks": ["utf-8", "utf-16", "latin-1"],
+    "chunk_size": 1000000,
+    "parallel_processing": false
+  }
+}
